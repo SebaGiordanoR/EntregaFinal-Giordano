@@ -1,0 +1,58 @@
+[
+    {
+        "id":"1",
+        "nombre":"Piedra amatista",
+        "precio":4300,
+        "imagen":"./img/amatista.webp",
+        "alt":"Imagen piedra amatista"
+    },
+    {
+        "id":"2",
+        "nombre":"Cuarzo Rosa",
+        "precio":3200,
+        "imagen":"./img/cuarzoRosa.webp",
+        "alt":"imagen cuarzo rosa"
+    },
+    {
+        "id":"3",
+        "nombre":"sahumerios",
+        "precio":2000,
+        "imagen":"./img/sahumerios.webp",
+        "alt":"imagen sahumerios"
+    },
+    {
+        "id":"4",
+        "nombre":"Sal negra",
+        "precio":5000,
+        "imagen":"./img/salNegra.webp",
+        "alt":"Imagen de sal negra"
+    },
+    {
+        "id":"5",
+        "nombre":"Tarot Rider Waite",
+        "precio":12000,
+        "imagen":"./img/TarotRiderWaite.webp",
+        "alt":"mazo de cartas tarot"
+    },
+    {
+        "id":"6",
+        "nombre":"vela amatista",
+        "precio":1500,
+        "imagen":"./img/velaamatistal.webp",
+        "alt":"Foto vela amatista"
+    },
+    {
+        "id":"7",
+        "nombre":"Vela blanca",
+        "precio":1200,
+        "imagen":"./img/velablanca.webp",
+        "alt":"Vela blanca"
+    },
+    {
+        "id":"8",
+        "nombre":"Vela negra",
+        "precio":2000,
+        "imagen":"./img/velanegra.webp",
+        "alt":"Vela negra"
+    }
+]
